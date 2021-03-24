@@ -1,0 +1,46 @@
+{
+  "name": "guris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/bves-bot"
+  },
+  "keywords": [
+    "JavaScript",
+    "DiscordJS",
+    "NodeJS",
+    "Discord",
+    "Zealcord"
+  ],
+  "author": "Zealcord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://glitch.com/edit/#!/bves-bot"
+  },
+  "homepage": "https://glitch.com/edit/#!/bves-bot",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.2",
+    "ascii-table": "^0.0.9",
+    "dotenv": "^8.2.0",
+    "quick.db": "^7.1.2",
+    "weather-js": "^2.0.0",
+    "path": "^0.12.7",
+    "ytdl-core-discord": "^1.2.5",
+    "moment": "^2.29.1",
+    "better-sqlite3": "^7.1.2",
+    "enmap": "^5.8.3",
+    "guild": "^1.2.2"
+  },
+  "optionalDependencies": {
+    "@discordjs/uws": "^10.149.0"
+  }
+}
